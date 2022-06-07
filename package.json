@@ -24,7 +24,7 @@
     "@okta/okta-auth-js": "5.9.1",
     "rxjs": "~7.4.0",
     "tic-tac-toe-minimax": "1.0.8",
-    "tslib": "^2.3.0",
+    "tslib": "^2.4.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
